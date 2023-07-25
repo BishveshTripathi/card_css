@@ -1,0 +1,64 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+input {
+  padding: 1rem;
+  border-radius: 40px;
+  width: 30rem;
+  border: 1px solid #000;
+}
+
+span {
+  position: absolute;
+  top: 35px;
+  right: 35%;
+}
+
+.searchbar {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 15px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin-top: 150px;
+}
+.card {
+  height: 400px;
+  width: 300px;
+  background-color: antiquewhite;
+  box-shadow: 20px 20px 20px black;
+}
+.text1 {
+  text-align: left;
+}
+.holiimage {
+  height: 180px;
+  width: 300px;
+}
+.button1 {
+  margin-top: 10px;
+}
+
+button {
+  color: whitesmoke;
+  background-color: black;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.card2 {
+  height: 400px;
+  width: 300px;
+  background-color: antiquewhite;
+}
+.card3 {
+  height: 400px;
+  width: 300px;
+  background-color: antiquewhite;
+}
